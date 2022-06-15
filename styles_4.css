@@ -1,0 +1,244 @@
+body {background: #E5E5E5; }
+
+.main { 
+	background-color:rgba(2.000000118277967, 30.00000011175871, 50.000000819563866, 1);
+	width:934px;
+	height:939px;
+	position:absolute;
+	overflow:hidden;
+}
+
+.retangulo_1 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:934px;
+	height:94px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+
+.logo { 
+	width:292px;
+	height:89px;
+	position:absolute;
+	left:0px;
+	top:5px;
+	background-image:url(img/logo.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.home { 
+	color:rgba(0, 0, 0, 1);
+	width:71px;
+	height:30px;
+	position:absolute;
+	left:397px;
+	top:40px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0;
+}
+
+.iniciantes { 
+	color:rgba(0, 0, 0, 1);
+	width:115px;
+	height:30px;
+	position:absolute;
+	left:487px;
+	top:40px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0;
+}
+
+.pranchas { 
+	color:rgba(0, 0, 0, 1);
+	width:112px;
+	height:30px;
+	position:absolute;
+	left:621px;
+	top:40px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0;
+}
+
+.sobre_surf { 
+	color:rgba(0, 0, 0, 1);
+	width:150px;
+	height:30px;
+	position:absolute;
+	left:764px;
+	top:40px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0;
+}
+
+
+.title_1 { 
+	color:rgba(255, 255, 255, 1);
+	width:108px;
+	height:30px;
+	position:absolute;
+	left:38px;
+	top:105px;
+	font-family:Inter;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0;
+}
+
+.title_2 { 
+	color:rgba(255, 255, 255, 1);
+	width:101px;
+	height:30px;
+	position:absolute;
+	left:38px;
+	top:366px;
+	font-family:Inter;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0;
+}
+
+.title_3 { 
+	color:rgba(255, 255, 255, 1);
+	width:199px;
+	height:30px;
+	position:absolute;
+	left:485px;
+	top:369px;
+	font-family:Inter;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0;
+}
+.title_4 { 
+	color:rgba(255, 255, 255, 1);
+	width:98px;
+	height:30px;
+	position:absolute;
+	left:38px;
+	top:622px;
+	font-family:Inter;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0;
+}
+
+
+.text_1 { 
+	color:rgba(255, 255, 255, 1);
+	width:876px;
+	height:199px;
+	position:absolute;
+	left:33px;
+	top:147px;
+	font-family:Inter;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:4;
+}
+
+.text_2 { 
+	color:rgba(255, 255, 255, 1);
+	width:360px;
+	height:180px;
+	position:absolute;
+	left:37px;
+	top:409px;
+	font-family:Inter;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:4;
+}
+
+.text_3 { 
+	color:rgba(255, 255, 255, 1);
+	width:398px;
+	height:205px;
+	position:absolute;
+	left:483px;
+	top:409px;
+	font-family:Inter;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:4;
+}
+
+.text_4	 { 
+	color:rgba(255, 255, 255, 1);
+	width:879px;
+	height:160px;
+	position:absolute;
+	left:38px;
+	top:669px;
+	font-family:Inter;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:4;
+}
+
+
+.retangulo_2 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:934px;
+	height:61px;
+	position:absolute;
+	left:0px;
+	top:878px;
+}
+
+.fale_conosco { 
+	color:rgba(255, 255, 255, 1);
+	width:164px;
+	height:30px;
+	position:absolute;
+	left:16px;
+	top:894px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0;
+}
+
+.img_whats { 
+	width:41px;
+	height:34px;
+	position:absolute;
+	left:202px;
+	top:892px;
+	background-image:url(img/whatsapp.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.num_whats { 
+	color:rgba(255, 255, 255, 1);
+	width:210px;
+	height:29px;
+	position:absolute;
+	left:265px;
+	top:894px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0;
+}
+
+.logo_2 { 
+	width:63px;
+	height:62px;
+	position:absolute;
+	left:871px;
+	top:877px;
+	background-image:url(img/logo2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
